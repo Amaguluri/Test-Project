@@ -18,8 +18,15 @@ padding: 5px;
     padding: 5px;
 }
 @media(min-width: 992px){
-	#p1 #p2 #p3{
+	#p1{
 		width: 33%;
 	}
+	#p2{
+		width: 33%;
+	}
+#p3{
+		width: 33%;
+	}
+
 
 }
