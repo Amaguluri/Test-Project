@@ -4,18 +4,21 @@ background-color: yellow;
 border: 1px solid black;
 margin :5px;
 padding: 5px;
+float: left;
 }
 #p2{
 	background-color: grey;
 	border: 1px solid black;
     margin :5px;
     padding: 5px;
+    float: left;
 }
 #p3{
 	background-color: green;
 	border: 1px solid black;
     margin :5px;
     padding: 5px;
+    float: right;
 }
 *{
 	box-sizing: border-box;
