@@ -6,6 +6,7 @@ margin :0px;
 padding: 2px;
 float: left;
 height: 150px;
+overflow: auto;
 }
 #p2{
 	background-color: grey;
@@ -14,6 +15,7 @@ height: 150px;
     padding: 2px;
     float: left;
     height: 150px;
+    overflow: auto;
 }
 #p3{
 	background-color: green;
@@ -22,6 +24,7 @@ height: 150px;
     padding: 2px;
     float: right;
     height: 150px;
+    overflow: auto;
 }
 *{
 	box-sizing: border-box;
