@@ -22,6 +22,7 @@ padding: 5px;
 	{
 		float: left;
 	}
+}
 	.col-lg-1{
 		width: 8.33%;
 	}
@@ -58,4 +59,4 @@ padding: 5px;
 	.col-lg-12{
 		width: 100%;
 	}
-}
+
