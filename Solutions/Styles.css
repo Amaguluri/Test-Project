@@ -2,22 +2,22 @@
 #p1 {
 background-color: yellow;
 border: 1px solid black;
-margin :5px;
-padding: 5px;
+margin :0px;
+padding: 2px;
 float: left;
 }
 #p2{
 	background-color: grey;
 	border: 1px solid black;
-    margin :5px;
-    padding: 5px;
+    margin :0px;
+    padding: 2px;
     float: left;
 }
 #p3{
 	background-color: green;
 	border: 1px solid black;
-    margin :5px;
-    padding: 5px;
+    margin :0px;
+    padding: 2px;
     float: right;
 }
 *{
