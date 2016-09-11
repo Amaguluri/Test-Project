@@ -16,7 +16,7 @@ overflow: auto;
     float: left;
     height: 150px;
     overflow: auto;
-    position: absolute;
+    position: relative;
 }
 #p3{
 	background-color: green;
